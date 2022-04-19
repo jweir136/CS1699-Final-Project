@@ -13,3 +13,5 @@ This is the code used to get the result for our final project. We our project di
 - <i>MeTooCorpusAnalysis.ipynb</i> My notebook used to read and analyze the baseline data.
 
 - <i>our-data-analysis.ipynb</i> My notebook analyzing the results of our own data.
+
+Any other files were not used in our research, however, were still included as they were once going to be used, but were found to not be needed.
